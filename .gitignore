@@ -1,0 +1,5 @@
+node_modules/
+js/*.LICENSE.txt
+*.map
+.DS_Store
+Thumbs.db
