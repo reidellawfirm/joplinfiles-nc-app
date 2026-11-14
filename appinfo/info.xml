@@ -16,10 +16,11 @@ Features:
 - Works across directory navigation without page reloads
     ]]></description>
     <version>1.0.8</version>
-    <licence>agpl</licence>
-    <author>Schuyler "Rocky" Reidel</author>
+    <licence>GPL-3.0-or-later</licence>
+    <author mail="schuyler@reidellawfirm.com">Schuyler "Rocky" Reidel, Reidel Law Firm</author>
     <namespace>JoplinFiles</namespace>
     <category>files</category>
+    <website>https://github.com/Reidel-Law-Firm/joplinfiles-nc-app</website>
     <bugs>https://github.com/Reidel-Law-Firm/joplinfiles-nc-app/issues</bugs>
     <repository type="git">https://github.com/Reidel-Law-Firm/joplinfiles-nc-app</repository>
     <dependencies>
