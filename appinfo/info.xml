@@ -15,15 +15,15 @@ Features:
 - Handles both notes and notebooks (Joplin folder entries)
 - Works across directory navigation without page reloads
     ]]></description>
-    <version>1.0.8</version>
+    <version>1.0.9</version>
     <licence>GPL-3.0-or-later</licence>
     <author mail="schuyler@reidellawfirm.com">Schuyler "Rocky" Reidel, Reidel Law Firm</author>
     <namespace>JoplinFiles</namespace>
     <category>files</category>
-    <website>https://github.com/Reidel-Law-Firm/joplinfiles-nc-app</website>
-    <bugs>https://github.com/Reidel-Law-Firm/joplinfiles-nc-app/issues</bugs>
-    <repository type="git">https://github.com/Reidel-Law-Firm/joplinfiles-nc-app</repository>
+    <website>https://github.com/reidellawfirm/joplinfiles-nc-app</website>
+    <bugs>https://github.com/reidellawfirm/joplinfiles-nc-app/issues</bugs>
+    <repository type="git">https://github.com/reidellawfirm/joplinfiles-nc-app</repository>
     <dependencies>
-        <nextcloud min-version="28" max-version="99"/>
+        <nextcloud min-version="34" max-version="35"/>
     </dependencies>
 </info>
